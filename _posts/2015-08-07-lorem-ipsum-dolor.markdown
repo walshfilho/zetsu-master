@@ -1,8 +1,9 @@
 ---
+title: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+date: 2015-08-07 03:00:08 Z
+categories:
+- Lorem
 layout: post
-title:  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
-date:   2015-08-07 03:00:08
-categories: Lorem
 comments: true
 ---
 
