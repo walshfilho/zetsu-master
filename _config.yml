@@ -25,7 +25,7 @@ paginate: 2
 comments: true
 paginate_path: "/page/:num"
 sass:
-  style: :compressed
+  style: compressed
   sass_dir: _sass
 markdown: kramdown
 permalink: "/:title/"
